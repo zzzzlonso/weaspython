@@ -5,7 +5,7 @@ variable_texto = "chaomundo"
 variable_booleana = True
 
 
-#Crear aplicacion que permita ingresar 3 notas y promediarlas
+# Crear aplicacion que permita ingresar 3 notas y promediarlas
 n1 = float(input("Ingrese nota 1: "))
 n2 = float(input("Ingrese nota 2: "))
 n3 = float(input("Ingrese nota 1: "))
@@ -15,3 +15,5 @@ if promedio >= 4:
     print("Aprobado")
 else:
     print("Reprobado")
+# hola mundo
+print("Hola, mundo!")
