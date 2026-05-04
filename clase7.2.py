@@ -9,6 +9,7 @@ while oportunidades>0:
     diferencia = abs(num - numeropersona)
     if numeropersona == num:
         print("GANASTE WONS🔥😍🥹")
+        break
     else:
         if diferencia >= 1 and diferencia <= 10:
             print("Caliente")
